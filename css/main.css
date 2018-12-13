@@ -1,0 +1,40 @@
+
+
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+.heading{
+    text-align: center;
+}
+
+.features .feature{
+    text-align: center;
+}
+
+.features .feature .fa{
+    font-size: 36px;
+    padding-right: 10px;
+}
+
+.features .feature .feature-name{
+    display: inline-block;
+    font-weight: 800;
+}
+
+.features{
+    background-color: green;
+    color: greenyellow;
+
+}
+
+
+
+
+
+
+
+
+
+
